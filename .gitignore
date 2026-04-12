@@ -7,7 +7,6 @@ env/
 venv/
 ENV/
 backend/exam_system.db
-backend/face_landmarker.task
 backend/model/
 
 # --- Node (Frontend) ---
