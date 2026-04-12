@@ -1,0 +1,26 @@
+# ============================================================
+# Exam Cheating Detection System - Backend Requirements
+# Python 3.11
+# ============================================================
+
+# --- Web Framework & Server ---
+fastapi==0.115.12
+uvicorn==0.34.2
+websockets
+python-multipart
+
+# --- Database ---
+sqlalchemy==2.0.43
+
+# --- Data Validation ---
+pydantic==2.11.4
+
+# --- Computer Vision & ML ---
+opencv-contrib-python
+mediapipe==0.10.33
+numpy==2.4.4
+
+# --- Utilities ---
+python-dotenv
+vosk==0.3.45
+fpdf2==2.8.7

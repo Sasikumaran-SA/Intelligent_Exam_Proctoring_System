@@ -1,0 +1,40 @@
+# --- Python (Backend) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+backend/exam_system.db
+backend/face_landmarker.task
+backend/model/
+
+# --- Node (Frontend) ---
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# --- Snapshots ---
+public/snapshots/*.jpg
+public/snapshots/*.png
+!public/snapshots/.gitkeep
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+
+# --- Project Specific ---
+.env
+backend/.env
+frontend/.env
