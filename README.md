@@ -144,8 +144,3 @@ This script will identify your IP and display the URLs for the Student Portal.
 ## 🔒 Security & Privacy
 - **Zero Cloud Reliance**: No data is sent to external servers. All ML models (MediaPipe, Vosk) and databases (SQLite) reside on your machine.
 - **Ephemeral Snapshots**: Violation snapshots are stored locally and only served to the authenticated Admin Dashboard.
-
----
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
