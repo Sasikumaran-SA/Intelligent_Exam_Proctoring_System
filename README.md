@@ -106,8 +106,8 @@ DL-Project1/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/dl-project1.git
-   cd dl-project1
+   git clone https://github.com/Sasikumaran-SA/Intelligent_Exam_Proctoring_System.git
+   cd Intelligent_Exam_Proctoring_System
    ```
 
 2. **Backend Setup**
